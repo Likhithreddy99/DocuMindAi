@@ -106,4 +106,4 @@ The app will launch in your default web browser at `http://localhost:8501`.
 
 Happy coding! 🚀✨
 
-Built by **Dodda Likhith reddy**
+Built by **Likhith Reddy**
